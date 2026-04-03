@@ -1,6 +1,4 @@
-
 #include <stdio.h>
-
 #define DESCUENTO_10 0.10
 #define DESCUENTO_20 0.20
 
